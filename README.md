@@ -3,7 +3,7 @@ Old project but new repo
 
 #### Pokedex
 
-### To make it work, go to crudcrud.com and get your endpoint, change it viewmodel
+### To make it work, go to crudcrud.com and get your endpoint, change it in viewmodel
 
 - request GET POST
 - Image async download, image caching...
